@@ -1,2 +1,2 @@
-# technical-writing-resources
-Resources to learn technical writing
+# Technical Writing Resources
+
