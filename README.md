@@ -15,7 +15,7 @@ These are just some of the resources that I personally read, use, and find helpf
 * [Google's Technical Writing Courses 1 & 2](https://developers.google.com/tech-writing)
 
 ## Markup Languages
-Learning a markup language is one of the easiest things you can do that will get you closer to being a technical writer. Start with HTML or Markdown before checking out XML (unless you don't want to, I'm not your boss). 
+Learning a markup language is one of the easiest things you can do that will get you closer to being a technical writer. Start with HTML or Markdown before checking out XML. 
 
 ### HTML
 * [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
