@@ -5,11 +5,12 @@ These are just some of the resources that I personally read, use, and find helpf
 ## Books
 * [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://www.oreilly.com/library/view/docs-for-developers/9781484272176/): Fantastic read for writers already familiar/comfortable with software development terms and concepts. 
 * [Docs Like Code](https://www.docslikecode.com/): Gets a bit more technical but does a good job of covering version control and automation.
+* [Thinking in Systems: A Primer](https://bookshop.org/p/books/thinking-in-systems-international-bestseller-donella-meadows/8755142?gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_k3S34opNyffon-IZUDvzOpqutYHHwSzkB0aMMzWKCh_1-zk-e5u14aAgYDEALw_wcB): Strongly recommend this for any information professional.   
 
 
 ## Communities 
 * [Write the Docs](https://www.writethedocs.org/): The first thing you should do after figuring out whether or not you're interested in technical writing is join this community, introduce yourself, and browse the slack channels. 
-  * **Bonus**: Attend conferences! 
+  * **Important**: Attend conferences! 
 
 ## Courses
 * [Google's Technical Writing Courses 1 & 2](https://developers.google.com/tech-writing)
