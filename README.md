@@ -16,15 +16,15 @@ These are just some of the resources that I personally read, use, and find helpf
 * [Google's Technical Writing Courses 1 & 2](https://developers.google.com/tech-writing)
 
 ## Markup Languages
-Learning a markup language is one of the easiest things you can do that will get you closer to being a technical writer. Start with HTML or Markdown before checking out XML. 
 
 ### HTML
 * [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3 Schools HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Markdown
+* [www.markdowntutorial.com](https://www.markdowntutorial.com/)
 * [Markdown Guide](https://www.markdownguide.org/)
-* [StackEdit](https://stackedit.io/): If you're already on GitHub, you probably won't need this, but having an in-browser Markdown editor can be convenient when you don't want to create a gist. 
+* [StackEdit](https://stackedit.io/)
 
 ### XML
 * [W3 Schools XML Tutorial](https://www.w3schools.com/xml/)
